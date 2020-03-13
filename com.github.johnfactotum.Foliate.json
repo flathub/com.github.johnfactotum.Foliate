@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.johnfactotum.Foliate",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.34",
+    "runtime-version": "3.36",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.johnfactotum.Foliate",
     "finish-args": [
@@ -11,10 +11,7 @@
         "--socket=fallback-x11",
         "--socket=wayland",
         "--device=dri",
-        "--filesystem=xdg-run/dconf",
-        "--filesystem=~/.config/dconf:ro",
-        "--talk-name=ca.desrt.dconf",
-        "--env=DCONF_USER_CONFIG_DIR=.config/dconf",
+        "--metadata=X-DConf=migrate-path=/com/github/johnfactotum/Foliate/",
         "--talk-name=org.freedesktop.Flatpak"
     ],
     "modules": [
