@@ -1,0 +1,22 @@
+diff --git a/data/com.github.johnfactotum.Foliate.appdata.xml.in b/data/com.github.johnfactotum.Foliate.appdata.xml.in
+index b486ec9..1490161 100644
+--- a/data/com.github.johnfactotum.Foliate.appdata.xml.in
++++ b/data/com.github.johnfactotum.Foliate.appdata.xml.in
+@@ -43,7 +43,7 @@
+         </screenshot>
+     </screenshots>
+     <releases>
+-        <release version="2.1.1" date="2019-04-09">
++        <release version="2.1.1" date="2020-04-09">
+             <description>
+                 <ul>
+                     <li>Fixed wrong version number</li>
+@@ -51,7 +51,7 @@
+                 </ul>
+             </description>
+         </release>
+-        <release version="2.1.0" date="2019-04-08">
++        <release version="2.1.0" date="2020-04-08">
+             <description>
+                 <p>New features:</p>
+                 <ul>
