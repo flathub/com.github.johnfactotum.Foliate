@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.johnfactotum.Foliate",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.38",
+    "runtime-version": "40",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.johnfactotum.Foliate",
     "finish-args": [
@@ -16,20 +16,6 @@
         "--talk-name=org.freedesktop.Flatpak"
     ],
     "modules": [
-        {
-            "name": "libhandy",
-            "buildsystem": "meson",
-            "config-opts": [
-                "--buildtype=release"
-            ],
-            "sources": [
-                {
-                    "type": "git",
-                    "url": "https://source.puri.sm/Librem5/libhandy",
-                    "tag": "v0.0.13"
-                }
-            ]
-        },
         {
             "name": "foliate",
             "buildsystem": "meson",
