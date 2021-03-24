@@ -37,12 +37,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/johnfactotum/foliate.git",
-                    "tag": "2.5.0",
-                    "commit": "c570ba1b03d5188aa335a485784b121f430ebcd1"
-                },
-                {
-                    "type" : "patch",
-                    "path" : "data-List-compatible-form-factors.patch"
+                    "tag": "2.6.0",
+                    "commit": "c20a78201fcd66835fb5be4ded4b85422a254e44"
                 }
             ]
         }
