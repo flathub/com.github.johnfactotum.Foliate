@@ -1,13 +1,12 @@
 {
     "app-id": "com.github.johnfactotum.Foliate",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "42",
+    "runtime-version": "43",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.johnfactotum.Foliate",
     "finish-args": [
         "--share=network",
         "--share=ipc",
-        "--socket=x11",
         "--socket=fallback-x11",
         "--socket=wayland",
         "--socket=pulseaudio",
