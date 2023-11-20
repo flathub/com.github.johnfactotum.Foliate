@@ -22,8 +22,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/johnfactotum/foliate.git",
-                    "tag": "3.0.0",
-                    "commit": "5d6571ebf939ecb66d4b147bbcff51ec40f7d1e5"
+                    "tag": "3.0.1",
+                    "commit": "cf570ad1650472a278d856ba2951e1920e7f872f"
                 }
             ]
         }
