@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.johnfactotum.Foliate",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "46",
+    "runtime-version": "47",
     "sdk": "org.gnome.Sdk",
     "command": "foliate",
     "finish-args": [
@@ -21,8 +21,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/johnfactotum/foliate.git",
-                    "tag": "3.1.1",
-                    "commit": "435da7b51705f3237eb4200495451b9599c30699"
+                    "tag": "3.2.0",
+                    "commit": "b21b8091f300dd0c38e96e6d04e1a43544b8ad83"
                 }
             ]
         }
